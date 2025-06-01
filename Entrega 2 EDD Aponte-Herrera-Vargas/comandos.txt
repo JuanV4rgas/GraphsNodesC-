@@ -1,0 +1,12 @@
+HOLA PROFE :D
+Para compilar el programa escribe en la terminal:
+
+g++ -std=c++11 imagen.cpp main.cpp sistema.cpp volumen.cpp ArbolHuffman.cpp NodoHuffman.cpp -o miPrograma
+
+
+
+o para correr el ejecutable escribe:
+
+./miPrograma
+
+Gracias :)
